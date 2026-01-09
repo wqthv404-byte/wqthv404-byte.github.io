@@ -19,3 +19,23 @@ button{
 button-hover{
   background-color:#163a4a;
 }
+header {
+  background: black;
+  color: white;
+  padding: 20px;
+}
+section {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+.highlight {
+  color: orange;
+  font-weight: bold;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+  
